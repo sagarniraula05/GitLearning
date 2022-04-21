@@ -4,3 +4,5 @@ initial
 Second word
 
 Third commit
+
+merging
