@@ -6,3 +6,5 @@ Second word
 Third commit
 
 merging
+
+Fourth commit
